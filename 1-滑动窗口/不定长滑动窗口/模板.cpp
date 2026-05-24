@@ -13,8 +13,9 @@ using namespace std;
 
 class Solution {
 public:
-    // TODO: 写你的函数
-    // int/vector<int>/string functionName(params) { ... }
+    int maximumBeauty(vector<int>& nums, int k) {
+        
+    }
 };
 
 int main() {
