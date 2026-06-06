@@ -5,7 +5,7 @@
  * 日期：YYYY-MM-DD
  * 思路：简要说明解题思路（定长/不定长？用什么数据结构维护窗口？）
  * 时间复杂度：O(n)
- * 空间复杂度：O(k)
+ * 空间复杂度：O(n)
  */
 
 #include <bits/stdc++.h>
@@ -13,9 +13,7 @@ using namespace std;
 
 class Solution {
 public:
-    int maximumBeauty(vector<int>& nums, int k) {
-        
-    }
+   
 };
 
 int main() {
